@@ -1,48 +1,38 @@
-🚀 About This Repo
+<h1 align="center">💻 Learning C++</h1>
 
-Swag se swagat to my C++ learning journey! Yeh repository mera personal workspace hai jahan main C++ ke concepts ko scratch se master kar raha hoon. From basic syntax to advanced recursion, everything is structured here for quick revision and deep understanding.
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Problem_Solving-black?style=for-the-badge&logo=codeforces&logoColor=white" alt="CP"/>
+</p>
 
-Agar aap competitive programming (CP) mein ghusna chahte ho ya core CSE concepts clear karna chahte ho, this roadmap is perfectly aligned. No fluffy theory—just working code, standard practices, and direct logic.
+> **Swag se swagat to my C++ learning journey!** Yeh repository mera personal workspace hai jahan main C++ ke concepts ko scratch se master kar raha hoon. No fluffy theory—just working code, standard practices, and direct logic.
 
-📁 Repository Structure
-Here is how the concepts are organized. Har ek folder mein well-commented, working code files hain:
+---
 
-/Basics - Input/Output, variables, data types, and operators.
+### 📂 Repository Architecture
 
-/Conditionals - If-else logic, switch cases.
+| Directory | Focus Area | Description |
+| :--- | :--- | :--- |
+| `📁 Basics` | **Fundamentals** | I/O, variables, data types, and operators. |
+| `📁 Conditionals` | **Logic Flow** | If-else logic, switch cases. |
+| `📁 Loops` | **Iteration** | For, while, do-while loops. |
+| `📁 funciton` | **Modularity** | Return types, parameters, scope. |
+| `📁 pointer` | **Memory** | The heart of C++ (Referencing & dereferencing). |
+| `📁 Arrays` | **Data Storage** | 1D structures and basic manipulation. |
+| `📁 2DArrays` | **Matrices** | Grid traversal and matrix logic. |
+| `📁 Recursion` | **Advanced** | Solving complex problems (Crucial for DSA!). |
 
-/Loops - For, while, do-while (Kyuki iteration is the foundation!).
+---
 
-/funciton - Modular programming, return types, and parameters.
+### ⚡ Why C++?
+As a competitive programmer, C++ gives the **raw execution speed** and memory control needed for platforms like LeetCode and Codeforces. This repo builds the fundamental muscle memory before jumping into the C++ Standard Template Library (STL).
 
-/pointer - The heart of C++ (Memory management, referencing & dereferencing).
+### 🛠️ Execution Guide
+You can clone this repo to run the code locally:
 
-/Arrays - 1D data structures and basic manipulation.
+```bash
+# Clone the repository
+git clone [https://github.com/sabya-code03/learnig-cpp.git](https://github.com/sabya-code03/learnig-cpp.git)
 
-/2DArrays - Matrices and grid traversal logic.
-
-/Recursion - Solving complex problems by calling functions within themselves (Crucial for DSA!).
-
-⚡ Why C++?
-
-As a competitive programmer and CSE undergrad, C++ gives me the raw execution speed and control over memory that I need. It is the gold standard for platforms like LeetCode and Codeforces. This repo builds the fundamental muscle memory needed before jumping into the C++ Standard Template Library (STL).
-
-🛠️ How to Use
-
-You can clone this repo to run the code locally. Just use a standard C++ compiler (like GCC):
-
-Bash
-
-git clone https://github.com/sabya-code03/learnig-cpp.git
-
+# Jump into the workspace
 cd learnig-cpp
-
-👨‍💻 About the Author
-
-Sabyasachi Ghosh (Sabya)
-
-🎓 B.Tech CSE Undergrad
-
-🚀 Tech Leader at The Big O's | Member of Robotrix Club
-
-💡 Always building, always optimizing.
